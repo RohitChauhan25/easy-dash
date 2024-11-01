@@ -1,7 +1,7 @@
 {
   "name": "easydash",
   "version": "0.1.0",
-  "homepage": "https://rohitchauhan25.github.io/easy-dash/",
+  "homepage": "https://rohitchauhan25.github.io/easydashboard/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
